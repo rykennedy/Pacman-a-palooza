@@ -13,3 +13,6 @@ Roadmap
 Future ideas include:
 Add buttons to change the pacman color and to stop the game
 Add feature to click a pacman to destroy it
+
+LICENSE INFORMATION
+MIT License
